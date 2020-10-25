@@ -1,0 +1,55 @@
+*{
+		box-sizing:border-box;		
+				}
+html{
+		padding:0;
+		marging:0;		
+				}				
+
+#img1{
+	width:150px;			
+				}
+.texto{
+				width:225px;
+		position:absolute;
+		top:110px;
+		left:110px;
+		font-size:10px;
+		color:white;
+				}
+#subtitulo{
+	text-align:center;			
+				}
+#subtitulo p{
+	text-align:center;			
+				}
+	#subtitulo h1{
+	text-align:center;			
+				}			
+#subtitulo2{
+				text-align:center;		
+				}
+#tarjeta{
+		background-color:#474444;
+		color:white;		
+				}
+#tarjeta button{
+		color:white;		
+				}
+#btnenviar{
+		background-color:#92ed41;		
+				}
+	#footer{
+		background-color:	#3b4659;		
+					}
+	#footer a{
+				color:white;
+					   text-decoration: none;
+					}
+@media screen and(max-width:600px){
+	.texto{
+					display:none;
+					}			
+				
+				
+				}
